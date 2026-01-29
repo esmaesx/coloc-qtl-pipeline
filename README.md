@@ -1,6 +1,6 @@
 # QTL Colocalization Pipeline
 
-**Goal:** Showcase a reproducible statistical genetics workflow for colocalizing GWAS signals with QTLs (eQTL/pQTL/sQTL).
+**Goal:** Showcase a reproducible genomics workflow for colocalizing GWAS signals with QTLs across eQTL, pQTL, and sQTL.
 
 ## What this includes
 - GWAS summary stats ingestion
