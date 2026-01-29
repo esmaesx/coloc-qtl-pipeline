@@ -12,6 +12,12 @@
 ## Notes
 This repo is a workflow showcase and does not report study results. Colocalization yield depends on overlap and harmonization quality.
 
+## Real data ingestion
+Clean and standardize QTL summary stats:
+```
+python src/ingest_qtl.py data/raw_qtl.tsv data/qtl_clean.csv
+```
+
 ## Demo code
 Run a minimal coloc demo with synthetic data:
 ```
