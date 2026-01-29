@@ -1,6 +1,0 @@
-chromosome,base_pair_location,effect_allele,other_allele,beta,standard_error,p_value
-6,31307547,T,C,-0.4546,0.0114,0.0
-6,31363297,A,G,0.5293,0.0125,0.0
-6,31363066,T,C,0.5335,0.0128,0.0
-6,31363056,A,G,0.451,0.0114,0.0
-6,31363055,T,C,-0.451,0.0114,0.0
